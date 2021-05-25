@@ -18,6 +18,7 @@ public class TestMain {
             endIndex = matcher.end();
             System.out.println(matcher.group());
         }
-        System.out.println();
+        System.out.println("\\s{3}");
+
     }
 }

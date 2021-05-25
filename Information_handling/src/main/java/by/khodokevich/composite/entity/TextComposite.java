@@ -1,11 +1,16 @@
 package by.khodokevich.composite.entity;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class TextComposite implements Component {
-    private List<Component> components = new ArrayList<>();
+    private List<Component> components;
     private ComponentType textType;
+
+    {
+        components = new ArrayList<>();
+    }
 
     public TextComposite(ComponentType textType) {
         this.textType = textType;
@@ -17,13 +22,20 @@ public class TextComposite implements Component {
     }
 
     @Override
+    public void addAll(List<Component> components) {
+        this.components.addAll(components);
+    }
+
+    @Override
     public void remove(Component component) {
         components.remove(component);
     }
 
     @Override
-    public List<Component> getNextComponentAsList() {
-        return components;
+    public List<Component> getChildComponentAsList() {
+        List<Component> newComponents = new ArrayList<>();
+        newComponents.addAll(components);
+        return newComponents;
     }
 
     @Override
@@ -34,16 +46,13 @@ public class TextComposite implements Component {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        if (textType == ComponentType.TEXT){
-            sb.append(textType.getBeforeComponent());
-        }
-
         for (Component element : components) {
             sb.append(textType.getBeforeComponent());
             sb.append(element.toString());
             sb.append(textType.getAfterComponent());
         }
 
-        return sb.toString().trim();
+
+        return sb.toString().stripTrailing();
     }
 }

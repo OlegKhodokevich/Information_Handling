@@ -30,13 +30,11 @@ public class LexemeParser extends AbstractTextParser {
         for (int i = 0; i < lexemes.length; i++) {
             if (lexemes[i].matches(WORD_WITH_PUNCTUATION_REX_EXP)) {
                 if (component.getType() == ComponentType.SENTENCE) {        //TODO
-
                     TextComposite textCompositeLexeme = new TextComposite(ComponentType.LEXEME);
                     component.add(textCompositeLexeme);
                     parse(lexemes[i], textCompositeLexeme);
-
                 } else if (component.getType() == ComponentType.LEXEME) {
-                    System.out.println(lexemes[i]);  //TODO
+//                    System.out.println(lexemes[i]);  //TODO
                     Matcher matcherWord = patternWord.matcher(lexemes[i]);
                     matcherWord.find();
                     int startIndex = matcherWord.start();
@@ -55,11 +53,11 @@ public class LexemeParser extends AbstractTextParser {
 
                     int endIndex = matcherWord.end();
                     int lengthLexeme = lexemes[i].length();
-                    System.out.println("endIndex = " + endIndex + "  lengthLexeme - 1 = " + (lengthLexeme - 1));
+//                    System.out.println("endIndex = " + endIndex + "  lengthLexeme - 1 = " + (lengthLexeme - 1)); //TODO
                     if (endIndex < lengthLexeme){
-                        System.out.println("lexemes[i] = " + lexemes[i] + " endIndex = " + endIndex);       //TODO
+//                        System.out.println("lexemes[i] = " + lexemes[i] + " endIndex = " + endIndex);       //TODO
                         String punctuation = lexemes[i].substring(endIndex, lengthLexeme);
-                        System.out.println(punctuation);
+//                        System.out.println(punctuation);
                         TextComposite textCompositePunctuation = new TextComposite(ComponentType.PUNCTUATION);
                         component.add(textCompositePunctuation);
                         nextParser.parse(punctuation, textCompositePunctuation);

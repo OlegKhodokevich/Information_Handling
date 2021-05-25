@@ -3,11 +3,11 @@ package by.khodokevich.composite.entity;
 import java.util.List;
 
 public class LetterLeaf implements Component {
-    private String value;
+    private char symbol;
     private ComponentType componentType;
 
-    public LetterLeaf(String value, ComponentType componentType) {
-        this.value = value;
+    public LetterLeaf(char symbol, ComponentType componentType) {
+        this.symbol = symbol;
         this.componentType = componentType;
     }
 
@@ -17,12 +17,17 @@ public class LetterLeaf implements Component {
     }
 
     @Override
+    public void addAll(List<Component> components) {
+        throw new UnsupportedOperationException("Undivided unit : " + getClass().getSimpleName());
+    }
+
+    @Override
     public void remove(Component component){
         throw new UnsupportedOperationException("Undivided unit : " + getClass().getSimpleName());
     }
 
     @Override
-    public List<Component> getNextComponentAsList(){
+    public List<Component> getChildComponentAsList() {
         throw new UnsupportedOperationException("Undivided unit : " + getClass().getSimpleName());
     }
 
@@ -33,6 +38,6 @@ public class LetterLeaf implements Component {
 
     @Override
     public String toString() {
-        return value;
+        return String.valueOf(symbol);
     }
 }

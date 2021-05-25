@@ -1,78 +1,149 @@
-08:45:57.713 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = will
-08:45:57.713 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = will
-08:45:57.713 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.713 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = be
-08:45:57.713 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = be
-08:45:57.713 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = be
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = be
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = of
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = of
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = of
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = of
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = a
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = a
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = page
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = page
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = page
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = page
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = when
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = when
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = when
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = when
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = looking
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = looking
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = looking
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = looking
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = at
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = at
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = at
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = at
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = its
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = its
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = its
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = its
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = layout...
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = layout
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = layout
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = ...
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = ...
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = layout
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = It is a established fact that a reader will be of a page when looking at its layout...
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SentenceParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.ParagraphParser - After parse(String text, Component component). Component = It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the “Динамо” (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum!
-    It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more-or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English?
-    It is a established fact that a reader will be of a page when looking at its layout...
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SentenceParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye бандерлоги.
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye бандерлоги.
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = Bye
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = Bye
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = бандерлоги.
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = бандерлоги
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = бандерлоги
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = .
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = .
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = бандерлоги
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = Bye бандерлоги.
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.SentenceParser - End parse(String text, Component component).
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.ParagraphParser - After parse(String text, Component component). Component = It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the “Динамо” (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum!
-    It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more-or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English?
-    It is a established fact that a reader will be of a page when looking at its layout...
-    Bye бандерлоги.
-08:45:57.729 [main] INFO  by.khodokevich.composite.parser.ParagraphParser - End parse(String text, Component component).
+10:19:08.982 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
+10:19:08.984 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = a
+10:19:08.984 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = a
+10:19:08.984 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = established
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = established
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = established
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = established
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = fact
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = fact
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = fact
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = fact
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = that
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = that
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = that
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = that
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = a
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = a
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = reader
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = reader
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = reader
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = reader
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.985 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = will
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = will
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = will
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = will
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = be
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = be
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = be
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = be
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = of
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = of
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = of
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = of
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = a
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = a
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = a
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = page
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = page
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = page
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = page
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = when
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = when
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = when
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = when
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = looking
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = looking
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = looking
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = looking
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = at
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = at
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = at
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = at
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = its
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = its
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = its
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = its
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = layout...
+10:19:08.986 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = layout
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = layout
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = ...
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = ...
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = layout
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = It is a established fact that a reader will be of a page when looking at its layout...
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SentenceParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.ParagraphParser - After parse(String text, Component component). Component = 	It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the “Динамо” (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum!
+	It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more-or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English?
+	It is a established fact that a reader will be of a page when looking at its layout...
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SentenceParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye бандерлоги. A. B. C. Ffffffffffff.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye бандерлоги.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Bye
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = Bye
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = Bye
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = бандерлоги.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = бандерлоги
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = бандерлоги
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = .
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = .
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = бандерлоги
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = Bye бандерлоги.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = A.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = A.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = A
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = A
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = .
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = .
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = A
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = Bye бандерлоги. A.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = B.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = B.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = B
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = B
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = .
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = .
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = B
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = Bye бандерлоги. A. B.
+10:19:08.987 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = C.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = C.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = C
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = C
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = .
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = .
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = C
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = Bye бандерлоги. A. B. C.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Ffffffffffff.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Ffffffffffff.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = Ffffffffffff
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = Ffffffffffff
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component class  = class by.khodokevich.composite.entity.TextComposite, text = .
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SymbolParser - Start parse(String text, Component component). Component = .
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - After parse(String text, Component component). Component = Ffffffffffff
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.LexemeParser - End parse(String text, Component component).
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SentenceParser - After parse(String text, Component component). Component = Bye бандерлоги. A. B. C. Ffffffffffff.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.SentenceParser - End parse(String text, Component component).
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.ParagraphParser - After parse(String text, Component component). Component = 	It has survived - not only (five) centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the “Динамо” (Рига) with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker Faclon9 including versions of Lorem Ipsum!
+	It is a long a!=b established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more-or-less normal distribution ob.toString(a?b:c), as opposed to using (Content here), content here's, making it look like readable English?
+	It is a established fact that a reader will be of a page when looking at its layout...
+	Bye бандерлоги. A. B. C. Ffffffffffff.
+10:19:08.988 [main] INFO  by.khodokevich.composite.parser.ParagraphParser - End parse(String text, Component component).

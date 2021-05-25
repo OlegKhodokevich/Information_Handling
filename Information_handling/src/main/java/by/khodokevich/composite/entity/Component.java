@@ -7,9 +7,11 @@ public interface Component {
 
     void add(Component component);
 
+    void addAll(List<Component> components);
+
     void remove(Component component);
 
-    List<Component> getNextComponentAsList();
+    List<Component> getChildComponentAsList();
 
     ComponentType getType();
 }

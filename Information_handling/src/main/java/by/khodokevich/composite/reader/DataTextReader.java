@@ -17,12 +17,10 @@ public class DataTextReader {
         try {
             text = Files.readString(Path.of(filename));
         } catch (IOException e) {
-            throw new ProjectCompositeException("File is incorrect.");
-        }
-        if (text.isBlank()) {
-            throw new ProjectCompositeException("File is empty.");
+            throw new ProjectCompositeException("File is incorrect. File = " + filename);
         }
         LOGGER.info("End readAllText(String filename). Text = " + text);
+
         return text;
 
 
